@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://phgelado.com/personalwebsitehugodeploy/sitemap.xml
